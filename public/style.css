@@ -1,0 +1,56 @@
+body{
+font-family: 'Open Sans', sans-serif;
+font-size-adjust: 0.54;
+font-weight: 300;
+@media only screen and (max-width: 768px) {
+    font-size: 14px;
+
+}
+
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: 0.75rem;
+  }
+
+.diversos{
+    margin-top: 1rem;
+    margin-right: 1rem;
+    margin-left: 1rem;
+    padding: 1rem;
+}
+
+.gradient-background{
+    background:#debc2a;
+}
+
+.saude{
+    margin: 3rem;
+}
+
+.bloco_texto{
+    margin: 3rem;
+}
+
+#navbarNav{
+    font-weight: bold;
+    background-color: #debc2a;
+    padding: 3vh;
+}
+
+.imagem-index2{
+    padding: 1rem;
+    margin: 1rem;
+    align-items: center;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+footer{
+    background-color: #debc2a;
+    margin: auto;
+    padding: 3vh;
+}
